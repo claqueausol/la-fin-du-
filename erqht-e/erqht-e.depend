@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583411779 source:c:\users\5719500\desktop\erqht-e\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
